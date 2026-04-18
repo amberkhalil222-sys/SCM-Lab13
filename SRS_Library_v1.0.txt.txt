@@ -4,3 +4,4 @@ Features:
 - Add books
 - Issue books
 - Return books
+- Search Books
